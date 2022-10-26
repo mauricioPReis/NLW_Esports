@@ -4,22 +4,22 @@
 
 ### Game
 
-id
-title
-bannerUrl
+- id
+- title
+- bannerUrl
 
 ### Ad
 
-id
-gameId
-name
-yearsPlaying
-discord
-weekDays
-hourStart
-hourEnd
-UserVoiceChannel
-createAt
+- id
+- gameId
+- name
+- yearsPlaying
+- discord
+- weekDays
+- hourStart
+- hourEnd
+- UserVoiceChannel
+- createAt
 
 ### Casos de Uso
 
